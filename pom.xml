@@ -11,6 +11,7 @@
   </properties>
   <name>spring-mvc Maven Webapp</name>
   <url>http://maven.apache.org</url>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
